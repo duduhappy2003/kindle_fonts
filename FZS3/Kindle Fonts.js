@@ -10,7 +10,7 @@
 ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+ https://github.com/yujixia/kindle_fonts/raw/main/STKaiti/LXGWWenKaiGB-Regular/STKaiti.ttf 302
 
 # > 宋体 -> 方正宋三
-# ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://github.com/duduhappy2003/kindle_fonts/raw/main/FZS3/STSongSC.ttf 302
+^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://github.com/duduhappy2003/kindle_fonts/raw/main/FZS3/STSongSC.ttf 302
 
 # > 圆体 -> 暂缺
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STYuanMedium-2018-02-16.ttf.+
